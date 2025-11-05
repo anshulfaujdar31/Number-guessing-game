@@ -14,7 +14,7 @@ Attempt Counter: Tracks the number of guesses remaining.
 
 Game Over Message: Clearly notifies the player whether they won or lost.
 
-🛠️ Prerequisites
+Prerequisites
 
 To compile and run this game, you will need a C compiler installed on your system.
 
@@ -22,7 +22,7 @@ C Compiler: Most commonly, GCC (GNU Compiler Collection) is used.
 
 Check if GCC is installed by running: gcc --version
 
-🚀 How to Compile and Run
+How to Compile and Run
 
 Follow these steps to get the game running on your local machine.
 
@@ -55,7 +55,5 @@ The computer will choose a secret number between 1 and 100.
 You will be prompted to enter your guess.
 
 The game will tell you if your guess is "Too high" or "Too low".
-
-You have a limited number of attempts (usually 10).
 
 Keep guessing until you correctly identify the number or run out of attempts!
